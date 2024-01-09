@@ -388,6 +388,10 @@ body {
   background-image:url(balls/d3.PNG);
   animation-delay: 2.3s;
   padding-top:120px;
+}.boundball6 span:nth-child(4) {
+  background-image:url(balls/d4.PNG);
+  animation-delay: 2.3s;
+  padding-top:120px;
 
 }.boundball7 span:nth-child(1) {
   background-image:url(balls/o1.PNG);
@@ -415,20 +419,7 @@ body {
   animation-delay: 2.9s;
   padding-top:120px;
 }.boundball8 span:nth-child(2) {
-  background-image:url(balls/y2.PNG);
+  background-image:url(balls/x1.PNG);
   animation-delay: 3.0s;
   padding-top:120px;
-}.boundball8 span:nth-child(3) {
-  background-image:url(balls/x1.PNG);
-  animation-delay: 3.1s;
-  padding-top:120px;
-}.boundball8 span:nth-child(4) {
-  background-image:url(balls/x2.PNG);
-  animation-delay: 3.2s;
-  padding-top:120px;
-}.boundball8 span:nth-child(5) {
-  background-image:url(balls/x3.PNG);
-  animation-delay: 3.3s;
-  padding-top:120px;
 }
-
