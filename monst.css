@@ -291,11 +291,11 @@ body {
   padding-top:80px;
 
 }.boundball8 span:nth-child(1) {
-  background-image:url(balls/y1.PNG);
+  background-image:url(balls/x1.PNG);
   animation-delay: 2.9s;
   padding-top:120px;
 }.boundball8 span:nth-child(2) {
-  background-image:url(balls/x1.PNG);
+  background-image:url(balls/x2.PNG);
   animation-delay: 3.0s;
   padding-top:120px;
 }
