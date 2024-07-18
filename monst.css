@@ -195,6 +195,10 @@ body {
   background-image:url(balls/mj7.PNG);
   animation-delay: 0.7s;
   padding-top:80px;
+}.boundball1 span:nth-child(8) {
+  background-image:url(balls/mj8.PNG);
+  animation-delay: 0.8s;
+  padding-top:80px;
 
 }.boundball2 span:nth-child(1) {
   background-image:url(balls/r1.PNG);
@@ -229,73 +233,118 @@ body {
   background-image:url(balls/b3.PNG);
   animation-delay: 1.5s;
   padding-top:80px;
+}.boundball3 span:nth-child(4) {
+  background-image:url(balls/b3.PNG);
+  animation-delay: 1.6s;
+  padding-top:80px;
+}.boundball3 span:nth-child(5) {
+  background-image:url(balls/b3.PNG);
+  animation-delay: 1.7s;
+  padding-top:80px;
 
 }.boundball4 span:nth-child(1) {
   background-image:url(balls/g1.PNG);
-  animation-delay: 1.6s;
+  animation-delay: 1.8s;
   padding-top:120px;
 }.boundball4 span:nth-child(2) {
   background-image:url(balls/g2.PNG);
-  animation-delay: 1.7s;
+  animation-delay: 1.9s;
+  padding-top:120px;
+}.boundball4 span:nth-child(3) {
+  background-image:url(balls/g2.PNG);
+  animation-delay: 2.0s;
+  padding-top:120px;
+}.boundball4 span:nth-child(4) {
+  background-image:url(balls/g2.PNG);
+  animation-delay: 2.1s;
+  padding-top:120px;
+}.boundball4 span:nth-child(5) {
+  background-image:url(balls/g2.PNG);
+  animation-delay: 2.2s;
   padding-top:120px;
 
 }.boundball5 span:nth-child(1) {
   background-image:url(balls/l1.PNG);
-  animation-delay: 1.8s;
+  animation-delay: 2.3s;
   padding-top:80px;
 }.boundball5 span:nth-child(2) {
   background-image:url(balls/l2.PNG);
-  animation-delay: 1.9s;
+  animation-delay: 2.4s;
   padding-top:80px;
 }.boundball5 span:nth-child(3) {
   background-image:url(balls/l3.PNG);
-  animation-delay: 2.0s;
+  animation-delay: 2.5s;
+  padding-top:80px;
+}.boundball5 span:nth-child(4) {
+  background-image:url(balls/l3.PNG);
+  animation-delay: 2.6s;
+  padding-top:80px;
+}.boundball5 span:nth-child(5) {
+  background-image:url(balls/l3.PNG);
+  animation-delay: 2.7s;
   padding-top:80px;
 
 }.boundball6 span:nth-child(1) {
   background-image:url(balls/d1.PNG);
-  animation-delay: 2.1s;
+  animation-delay: 2.8s;
   padding-top:120px;
 }.boundball6 span:nth-child(2) {
   background-image:url(balls/d2.PNG);
-  animation-delay: 2.2s;
+  animation-delay: 2.9s;
   padding-top:120px;
 }.boundball6 span:nth-child(3) {
   background-image:url(balls/d3.PNG);
-  animation-delay: 2.3s;
+  animation-delay: 3.0s;
   padding-top:120px;
 }.boundball6 span:nth-child(4) {
   background-image:url(balls/d4.PNG);
-  animation-delay: 2.3s;
+  animation-delay: 3.1s;
   padding-top:120px;
+}.boundball6 span:nth-child(5) {
+  background-image:url(balls/d4.PNG);
+  animation-delay: 3.2s;
+  padding-top:120px;
+
 
 }.boundball7 span:nth-child(1) {
   background-image:url(balls/o1.PNG);
-  animation-delay: 2.4s;
+  animation-delay: 3.3s;
   padding-top:80px;
 }.boundball7 span:nth-child(2) {
   background-image:url(balls/o2.PNG);
-  animation-delay: 2.5s;
+  animation-delay: 3.4s;
   padding-top:80px;
 }.boundball7 span:nth-child(3) {
   background-image:url(balls/o3.PNG);
-  animation-delay: 2.6s;
+  animation-delay: 3.5s;
   padding-top:80px;
 }.boundball7 span:nth-child(4) {
   background-image:url(balls/o4.PNG);
-  animation-delay: 2.7s;
+  animation-delay: 3.6s;
   padding-top:80px;
 }.boundball7 span:nth-child(5) {
   background-image:url(balls/o5.PNG);
-  animation-delay: 2.8s;
+  animation-delay: 3.7s;
   padding-top:80px;
 
 }.boundball8 span:nth-child(1) {
   background-image:url(balls/x1.PNG);
-  animation-delay: 2.9s;
+  animation-delay: 3.8s;
   padding-top:120px;
 }.boundball8 span:nth-child(2) {
   background-image:url(balls/x2.PNG);
-  animation-delay: 3.0s;
+  animation-delay: 3.9s;
+  padding-top:120px;
+}.boundball8 span:nth-child(3) {
+  background-image:url(balls/x3.PNG);
+  animation-delay: 4.0s;
+  padding-top:120px;
+}.boundball8 span:nth-child(4) {
+  background-image:url(balls/x2.PNG);
+  animation-delay: 4.1s;
+  padding-top:120px;
+}.boundball8 span:nth-child(5) {
+  background-image:url(balls/x2.PNG);
+  animation-delay: 4.2s;
   padding-top:120px;
 }
