@@ -340,11 +340,11 @@ body {
   animation-delay: 4.0s;
   padding-top:120px;
 }.boundball8 span:nth-child(4) {
-  background-image:url(balls/x2.PNG);
+  background-image:url(balls/x4.PNG);
   animation-delay: 4.1s;
   padding-top:120px;
 }.boundball8 span:nth-child(5) {
-  background-image:url(balls/x2.PNG);
+  background-image:url(balls/x5.PNG);
   animation-delay: 4.2s;
   padding-top:120px;
 }
